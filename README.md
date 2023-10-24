@@ -11,6 +11,8 @@
 
  ![image](https://github.com/Shubh3009/Traffic-Light-Controller-Design-using-Verilog/assets/108566789/a54ad955-5372-4c5b-b8e0-01bcc155d8c7)
 
+ Analysing the waveform we can clearly see that the FSM works perfectly
+
 
 
  
